@@ -3,5 +3,15 @@ img {
     height: auto;
 }
 ul {
+    text-align: left;
+    margin-left: 50px;
+}
+p {
+    text-indent: 10px;
+}
+h1 {
     text-align: center;
+}
+html {
+    margin-left: 100px;
 }
